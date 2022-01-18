@@ -1,4 +1,4 @@
-# jqpl-training Project
+# JPQL training
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -58,17 +58,3 @@ If you want to learn more about building native executables, please consult http
 - Hibernate ORM ([guide](https://quarkus.io/guides/hibernate-orm)): Define your persistent model with Hibernate ORM and
   JPA
 - RESTEasy JAX-RS ([guide](https://quarkus.io/guides/rest-json)): REST endpoint framework implementing JAX-RS and more
-
-## Provided Code
-
-### Hibernate ORM
-
-Create your first JPA entity
-
-[Related guide section...](https://quarkus.io/guides/hibernate-orm)
-
-### RESTEasy JAX-RS
-
-Easily start your RESTful Web Services
-
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
