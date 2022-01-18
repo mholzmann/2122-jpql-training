@@ -53,7 +53,7 @@ You can then execute your native executable with: `./target/jqpl-training-1.0-SN
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.
 
-## Related Guides
+## Related guides
 
 - Hibernate ORM ([guide](https://quarkus.io/guides/hibernate-orm)): Define your persistent model with Hibernate ORM and
   JPA
